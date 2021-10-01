@@ -1,4 +1,8 @@
 # --*-- coding: utf-8 --*--
+# author: ZhangLe
+# text processing and information extract task  
+# 2021.Sep.30
+
 import pandas as pd
 import emoji
 from transformers import pipeline
