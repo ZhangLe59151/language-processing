@@ -1,6 +1,6 @@
 # language-processing
-customer recommand text from a product.  
-extract the most liked part and disliked part from customer's recommand.    
+customer reviews text from a product.  
+extract the most liked part and disliked part from customer's reviews.    
 
 - bert-segment-classification model  
 - tokenization  
